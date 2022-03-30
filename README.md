@@ -4,11 +4,11 @@
 ![H&M Logo](./img/H&M.jpg)
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [I. EDA](#I.-Data-Collection-&-ETL)
-* [II. Data preparation](#II.-EDA)
-* [III. Recommender systemn](#III.-Price-prediction)
+* [General Info](#General-Information)
+* [Technologies Used](#Technologies-Used)
+* [I. EDA](#I.-Exploratory-analysis-and-data-visualization)
+* [II. Data preparation](#II.-Data-preparation)
+* [III. Recommender systemn](#III.-Recommender-system)
 <!-- * [License](#license) -->
 
 ## General Information
@@ -29,7 +29,7 @@ https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 
 ### I. Exploratory analysis and data visualization
 
-[EDA NOTEBOOK](./01_EDA/HM-EDA.ipynb)
+[EDA NOTEBOOK](./1_EDA/HM-EDA.ipynb)
 
 - exploring the datasets and answering some high level questions
 
