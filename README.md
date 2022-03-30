@@ -6,9 +6,9 @@
 ## Table of Contents
 * [General Info](#General-Information)
 * [Technologies Used](#Technologies-Used)
-* [I. EDA](#I.--Exploratory-analysis-and-data-visualization)
-* [II. Data preparation](#II.--Data-preparation)
-* [III. Recommender systemn](#III.--Recommender-system)
+* [I. EDA](#I.-Exploratory-analysis-and-data-visualization)
+* [II. Data preparation](#II.-Data-preparation)
+* [III. Recommender systemn](#iii.-Recommender-system)
 <!-- * [License](#license) -->
 
 ## General Information
