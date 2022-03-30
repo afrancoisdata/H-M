@@ -6,9 +6,9 @@
 ## Table of Contents
 * [General Info](#General-Information)
 * [Technologies Used](#Technologies-Used)
-* [I. EDA](#I.-Exploratory-analysis-and-data-visualization)
-* [II. Data preparation](#II.-Data-preparation)
-* [III. Recommender systemn](#III.-Recommender-system)
+* [I. EDA](#I.--Exploratory-analysis-and-data-visualization)
+* [II. Data preparation](#II.--Data-preparation)
+* [III. Recommender systemn](#III.--Recommender-system)
 <!-- * [License](#license) -->
 
 ## General Information
@@ -27,16 +27,16 @@ https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
 - PYTHON3 - version 3.9: Pandas,Dask, Matplotlib, Seaborn, Sklearn, Optuna
 
 
-### I.Exploratory analysis and data visualization
+### I. Exploratory analysis and data visualization
 
 [EDA NOTEBOOK](./1_EDA/HM-EDA.ipynb)
 
 - exploring the datasets and answering some high level questions
 
-### II.Data preparation
+### II. Data preparation
     (in progress)
 
-### III.Recommender system
+### III. Recommender system
     (in progress)
 
 
